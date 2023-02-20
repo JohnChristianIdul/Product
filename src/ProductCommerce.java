@@ -13,14 +13,12 @@ public class ProductCommerce implements iProduct{
             return false;
         }
 
-        for(int i=0; i<iProduct.max; i++){
-
-            if(!products[i].getProdID().equals(id)){
-
-                products[i] = new Product(id, name, qty, price);
-                return true;
+        for(int i=0; i<length; i++){
+            if(products[i].getProdID().equals(id)){
+                return false;
             }
-
+            products[i] = new Product(id, name, qty, price);
+            return true;
         }
         return false;
     }

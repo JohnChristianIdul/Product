@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db24b7fe-4a5c-4e28-b482-0ae01ed35c94" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Product.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProductCommerce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iProduct.java" afterDir="false" />
+    <list default="true" id="db24b7fe-4a5c-4e28-b482-0ae01ed35c94" name="Changes" comment="Done but needs checking">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProductCommerce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProductCommerce.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +46,16 @@
       <option name="presentableId" value="Default" />
       <updated>1676901701845</updated>
       <workItem from="1676901711729" duration="3637000" />
-      <workItem from="1676906000670" duration="423000" />
+      <workItem from="1676906000670" duration="665000" />
     </task>
+    <task id="LOCAL-00001" summary="Done but needs checking">
+      <created>1676906478329</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676906478329</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,5 +71,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Done but needs checking" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done but needs checking" />
   </component>
 </project>
